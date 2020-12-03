@@ -9,7 +9,7 @@ cp sample.env .env
 ```
 
 replace the values on `.env` file
-## Sart dev server
+## start dev server
 
 ```shell
 yarn install
