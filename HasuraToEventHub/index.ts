@@ -41,6 +41,7 @@ const httpTrigger: AzureFunction = async function (context: Context, req: HttpRe
         body: { success: true, responseMessage }
     };
     try {
+        // TODO process the data here 
         await main(req.body)
     } catch (err) {
         context.res = {
