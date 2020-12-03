@@ -1,4 +1,4 @@
-# Azure function to send Hasura events to Azure EventntHub
+# Azure function to send Hasura events to Azure EventHub
 
 Use this azure function as a biolerplate code to send Hasura events to Azure EventHub. you may add your custom data enrichment/transformation based on the business usecases.
 
